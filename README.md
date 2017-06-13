@@ -68,5 +68,5 @@ For example, `num-1990-1025` is the total employment in the education and health
 
 The data of supersector "Unclassified" is not shown in this dataset. However the total employment (`num`) includes this data.
 
-#### License
+## License
 [MIT License](https://github.com/pri-data/50-states/blob/master/LICENSE)

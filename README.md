@@ -67,3 +67,6 @@ They were downloaded from [here](https://www.bls.gov/cew/datatoc.htm#NAICS_BASED
 For example, `num-1990-1025` is the total employment in the education and health services supersector in 1990.
 
 The data of supersector "Unclassified" is not shown in this dataset. However the total employment (`num`) includes this data.
+
+#### License
+[MIT License](https://github.com/pri-data/50-states/blob/master/LICENSE)
